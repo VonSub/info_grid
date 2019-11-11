@@ -1,6 +1,6 @@
 # Farming Simulation Tools
 
-## Note: These tools help to estimate as good as possible the amount of TFTs, but are not producing binding results.  
+## Note: These tools help to estimate as good as possible the amount of TFTs, but are not producing binding results. Most AMD and INTEL CPUs are supported. INTEL NICs work in conjunction with Zero OS. Realtek NICs are mostly not supported. To find out if your hardware can be added to the TF Grid please [setup your farm and add the node to the TF Grid](tf_farming/farming_setup.md)
 
 <div style="overflow:hidden;">
    <iframe src="https://jscalc.io/calc/8jXXLOukrlXcI7H4" scrolling="yes" style="width: 100%; height: 582px; margin-left:0px;"></iframe>
@@ -52,6 +52,8 @@ You can play around with the average Token exit value to simulate different scen
 
 *********************************************************************************************************
 
-Please contact us for help with any of the above tools.
+Please contact the ThreeFold Support Center for any help: 
+- TF ticketing system: https://support.grid.tf/
+- Email: support@threefold.tech
 
 Sign up to the [Farmers' chat](https://t.me/joinchat/BwOvO0NpZjNMHFx8wD_5nw) to stay up to date on farming.
