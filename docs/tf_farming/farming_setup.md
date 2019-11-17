@@ -20,7 +20,7 @@ To create such an identity you need to install the 3bot app:
 
 ## Deploy a 3bot
 
-To deploy a 3bot, go to http://explorer.testnet.grid.tf/chat/login. You will be asked to login using the 3bot login app you have installed in the previous step.
+To deploy a 3bot, go to http://explorer.testnet.grid.tf/chat. You will be asked to login using the 3bot login app you have installed in the previous step.
 
 Now that your are logged in, click on the `Threebot deploy` button. This will open a chat bot that will guide you through the steps to create your 3bot.
 
