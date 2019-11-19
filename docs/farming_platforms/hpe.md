@@ -51,44 +51,8 @@ HPE ProLiant MicroServer Gen10 is available at local electronics stores. Configu
 ### Media:
 <https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00008701enw>
 
-## Converged Node I 
 
-AMD based Compute and Storage Node, 2u rack-mountable (around 18000 USD, depending on region)
-
-### Server Platform:
-HPE ProLiant DL385 Gen10 Mod-X 12LFF
-
-### Description:
-HPE ProLiant DL385 Gen10 server supports industry-standard technology leveraging the AMD EPYC 7000 Series Processor with up to 32 cores, 12 Gb SAS and 4.0 TB of HPE DDR4 SmartMemory. HPE ProLiant DL385 Gen10 claims the world record for the MOST energy-efficient AMD-based server. HPE ProLiant DL385 Gen10 Mod-X 12LFF is Zero OS certified
-
-### Preferred/optimized configuration:
-Threefold optimized configuration for maximized ROI: 
-
-- 2x AMD EPYC – 7351 (2.4GHz/16-core) 
-- 256GB RAM 
-- 8x 12TB SATA HDDs 
-- 4x 1.92TB SATA SSDs
-- Dual-port 10GE network adapter
-
-#### Resource Units:
-
-- CRU: 64 logical cores
-- MRU: 256 GB
-- SSD: 7680 GB
-- HRU: 96000 GB
-
-### ROI calculation Example:
-
-**10.1** over 5 years @ purchasing price USD 18.000, hosted in a data center, the token price at farm start USD 0.12, CU Price USD 15, SU Price USD 10, 60% average capacity utilization, 20% price erosion, token price after 5 years of farming USD 1.0
-
-### Where to buy:
-Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold Farming hardware DL385 Gen10 Mod-X 12LFF' in the email subject
-
-### Media:
-<https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00026913enw>
-
-
-## Converged Node II
+## Converged Node I
 
 INTEL based Compute and Storage Node, 2u rack-mountable (around 20000 USD, depending on region)
 
@@ -124,6 +88,44 @@ Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold 
 
 ### Media:
 <https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00008180enw>
+
+
+## Converged Node II
+
+AMD based Compute and Storage Node, 2u rack-mountable (around 18000 USD, depending on region)
+
+### Server Platform:
+HPE ProLiant DL385 Gen10 Mod-X 12LFF
+
+### Description:
+HPE ProLiant DL385 Gen10 server supports industry-standard technology leveraging the AMD EPYC 7000 Series Processor with up to 32 cores, 12 Gb SAS and 4.0 TB of HPE DDR4 SmartMemory. HPE ProLiant DL385 Gen10 claims the world record for the MOST energy-efficient AMD-based server. HPE ProLiant DL385 Gen10 Mod-X 12LFF is Zero OS certified
+
+### Preferred/optimized configuration:
+Threefold optimized configuration for maximized ROI: 
+
+- 2x AMD EPYC – 7351 (2.4GHz/16-core) 
+- 256GB RAM 
+- 8x 12TB SATA HDDs 
+- 4x 1.92TB SATA SSDs
+- Dual-port 10GE network adapter
+
+#### Resource Units:
+
+- CRU: 64 logical cores
+- MRU: 256 GB
+- SSD: 7680 GB
+- HRU: 96000 GB
+
+### ROI calculation Example:
+
+**10.1** over 5 years @ purchasing price USD 18.000, hosted in a data center, the token price at farm start USD 0.12, CU Price USD 15, SU Price USD 10, 60% average capacity utilization, 20% price erosion, token price after 5 years of farming USD 1.0
+
+### Where to buy:
+Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold Farming hardware DL385 Gen10 Mod-X 12LFF' in the email subject
+
+### Media:
+<https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00026913enw>
+
 
 ## Storage Node
 
