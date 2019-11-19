@@ -51,6 +51,45 @@ HPE ProLiant MicroServer Gen10 is available at local electronics stores. Configu
 ### Media:
 <https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00008701enw>
 
+
+## Converged Node I
+
+INTEL based Compute and Storage Node, 2u rack-mountable (around 20000 USD, depending on region)
+
+### Server Platform:
+HPE ProLiant DL380 Gen10 12LFF  
+
+### Description:
+Standardize on the industry's most trusted compute platform with this world’s bestselling server for the data center general-purpose compute. Features dual-socket Intel® Xeon® Processor Scalable Family CPUs, modular chassis with greater drive capacity and flexibility. HPE ProLiant DC380 Gen10 12LFF is Zero OS certified
+
+### Preferred/optimized configuration:
+Threefold optimized configuration for maximized ROI: 
+
+- 2x Intel Xeon-Gold 6130 (2.1GHz/16-core) 
+- 256GB RAM 
+- 8x 12TB SATA HDDs 
+- 4x 1.92TB SATA SSDs
+- Dual-port 10GE network adapter
+
+#### Ressource Units:
+
+- CRU: 64 logical cores
+- MRU: 256 GB
+- SSD: 7680 GB
+- HRU: 144000 GB
+
+### ROI calculation Example:
+
+**9.3** over 5 years @ purchasing price USD 20.000, hosted in data center, the token price at farm start USD 0.12, CU Price USD 15, SU Price USD 10, 60% average capacity utilization, 20% price erosion, token price after 5 years of farming USD 1.0
+
+
+### Where to buy:
+Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold farming hardware DL380 Gen10 12LFF' in the email subject
+
+### Media:
+<https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00008180enw>
+
+
 ## Converged Node I 
 
 AMD based Compute and Storage Node, 2u rack-mountable (around 18000 USD, depending on region)
@@ -87,43 +126,6 @@ Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold 
 ### Media:
 <https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00026913enw>
 
-
-## Converged Node II
-
-INTEL based Compute and Storage Node, 2u rack-mountable (around 20000 USD, depending on region)
-
-### Server Platform:
-HPE ProLiant DL380 Gen10 12LFF  
-
-### Description:
-Standardize on the industry's most trusted compute platform with this world’s bestselling server for the data center general-purpose compute. Features dual-socket Intel® Xeon® Processor Scalable Family CPUs, modular chassis with greater drive capacity and flexibility. HPE ProLiant DC380 Gen10 12LFF is Zero OS certified
-
-### Preferred/optimized configuration:
-Threefold optimized configuration for maximized ROI: 
-
-- 2x Intel Xeon-Gold 6130 (2.1GHz/16-core) 
-- 256GB RAM 
-- 8x 12TB SATA HDDs 
-- 4x 1.92TB SATA SSDs
-- Dual-port 10GE network adapter
-
-#### Ressource Units:
-
-- CRU: 64 logical cores
-- MRU: 256 GB
-- SSD: 7680 GB
-- HRU: 144000 GB
-
-### ROI calculation Example:
-
-**9.3** over 5 years @ purchasing price USD 20.000, hosted in data center, the token price at farm start USD 0.12, CU Price USD 15, SU Price USD 10, 60% average capacity utilization, 20% price erosion, token price after 5 years of farming USD 1.0
-
-
-### Where to buy:
-Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold farming hardware DL380 Gen10 12LFF' in the email subject
-
-### Media:
-<https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00008180enw>
 
 ## Storage Node
 
