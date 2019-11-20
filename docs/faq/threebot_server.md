@@ -5,9 +5,6 @@ Prerequisites:
 - You shouldn't have any previous record in our phonebook.
 
 
-
-Go to https://explorer.testnet.grid.tf/chat/
-
 To deploy a 3bot, go to http://explorer.testnet.grid.tf/chat. You will be asked to login using the 3bot login app.
 
 ![](img/login.png)
