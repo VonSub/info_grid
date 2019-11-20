@@ -20,22 +20,7 @@ To create such an identity you need to install the 3bot app:
 
 ## Deploy a 3bot
 
-To deploy a 3bot, go to http://explorer.testnet.grid.tf/chat. You will be asked to login using the 3bot login app you have installed in the previous step.
-
-Now that your are logged in, click on the `Threebot deploy` button. This will open a chat bot that will guide you through the steps to create your 3bot.
-
-At the end of the chat, your 3bot is going to be created, this can take a few minutes.
-
-Once your 3bot is alive, click the link to finish the initialization of the 3bot.
-
-The first time you connect to your 3bot, a form will be presented.
-
-- Country: ...
-- Referenced by: the "double name" of a eventual person that refereed you to intall a 3bot.
-- Seed: this is the important part. To know your identity seed, open the 3bot login app, click on the gear on the top right side of the app to open the preference page.
-then click `show phrase`. A pop up with your seed will be shown, copy this list of words into the form.
-
-Your 3bot is now initialized.
+Check [this](../faq/threebot_server.md) document for details on how to deploy a 3bot.
 
 ## Register your farm
 
