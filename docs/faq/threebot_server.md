@@ -10,24 +10,24 @@ Go to https://explorer.testnet.grid.tf/chat/
 
 To deploy a 3bot, go to http://explorer.testnet.grid.tf/chat. You will be asked to login using the 3bot login app.
 
-![](images/login.png)
+![](img/login.png)
 
 Now that your are logged in, click on the `Threebot deploy` button. This will open a chat bot that will guide you through the steps to create your 3bot.
 
-![](images/botchatflow.png)
+![](img/botchatflow.png)
 
 
 Progress through the chatflow by pressing Next to start the deployment.
 
-![](images/startdeployment.png)
+![](img/startdeployment.png)
 
 
 You'll see some progress update while waiting for the deployment to finish. This may take a few minutes.
-![](images/configuring3bot.png)
+![](img/configuring3bot.png)
 
 
 Once your 3bot is alive, click the link to finish the initialization of the 3bot.
-![](images/botsuccess.png)
+![](img/botsuccess.png)
 
 
 The first time you connect to your 3bot, a form will be presented so you can finish initializing your 3bot.
@@ -36,9 +36,9 @@ The first time you connect to your 3bot, a form will be presented so you can fin
 - Seed: this is the important part. To know your identity seed, open the 3bot login app, click on the gear on the top right side of the app to open the preference page.
 then click `show phrase`. A pop up with your seed will be shown, copy this list of words into the form.
 
-![](images/botlogin.png)
+![](img/botlogin.png)
 
 
 Your 3bot is now initialized. You can go to <3boturl>/packagemanagerui/ to enable/disable/install apps.
 
-![](images/packagemanager.png)
+![](img/packagemanager.png)
