@@ -14,8 +14,7 @@ To deploy a 3bot, go to http://explorer.testnet.grid.tf/chat. You will be asked 
 
 Now that your are logged in, click on the `Threebot deploy` button. This will open a chat bot that will guide you through the steps to create your 3bot.
 
-![](img/botchatflow.png)
-
+![](img/selectchat.png)
 
 Progress through the chatflow by pressing Next to start the deployment.
 
