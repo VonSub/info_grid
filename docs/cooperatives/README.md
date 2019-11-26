@@ -6,7 +6,6 @@
 * [Hewlett Packard Enterprise](/cooperatives/hewlettpackardenterprise.md)
 * [Bettertoken](https://bettertoken.com/)
 * [Mazraa](https://www.mazraa.io/)
-* [GIG Europe](https://www.gigeurope.tech/)
 
 
 

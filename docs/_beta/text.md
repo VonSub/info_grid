@@ -2,10 +2,9 @@
 
 ![](../images/cooperatives.png)
 
-
 * [Bettertoken](https://bettertoken.com/)
 * [Mazraa](https://www.mazraa.io/)
-* [GIG Europe](https://www.gigeurope.tech/)
+
 
 
 
