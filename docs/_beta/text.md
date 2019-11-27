@@ -2,11 +2,9 @@
 
 ![](../images/cooperatives.png)
 
-
 * [Bettertoken](https://bettertoken.com/)
 * [Mazraa](https://www.mazraa.io/)
-* [Bancadati](bancadati.md)
-* [GIG Europe](https://www.gigeurope.tech/)
+
 
 
 

@@ -38,7 +38,6 @@ On-Call sheet: https://docs.google.com/spreadsheets/d/10U6Lfz1ezlv8Np4Qp07YAgGyF
 
 ### Farmer Specific Support
 
-- [Bancadati Farm Repo](https://docs.grid.tf/threefold/proj_bancadati)
 - [Kristof Farm Repo](https://docs.grid.tf/kristof_farm/itenv_kristof_farm)
 - [Mazraa Farm Repo](https://docs.grid.tf/threefold/itenv_mazraa)
 
