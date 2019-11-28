@@ -5,7 +5,7 @@
 
 ### Farmer activities
 
-A farmer is an investor in hardware which he commits to the TF NETWORK.  The TF NETWORK is a public, shared, neutral and private grid of capacity on which capacity consumers can build anything IT.  The farmer receives a digital return for his investment called the ThreeFold Token (TFT).  There are two types of events that make a farmer earn tokens:
+A farmer is an investor in hardware which he commits to the TF Grid.  The TF Grid is a public, shared, neutral and private grid of capacity on which capacity consumers can build anything IT.  The farmer receives a digital return for his investment called the ThreeFold Token (TFT).  There are two types of events that make a farmer earn tokens:
 
 * **Farming Tokens:** as a result of connecting server hardware to the ThreeFold Grid
 * **Cultivation Tokens:** as a result of their Farming Pool capacity being utilized by ThreeFold Grid Capacity users
@@ -14,7 +14,7 @@ The farmer is expected to keep his hardware up and running at all times which re
 
 ### Farmer types
 
-The TF NETWORK does not specify any shape, form or legal status for farmers. The TF NETWORK welcomes anyone that wants to contribute to build this global decentralized grid.  In the two years of it's existence the TF NETWORK has seen the following types of farming business develop:
+The TF Grid does not specify any shape, form or legal status for farmers. The TF Grid welcomes anyone that wants to contribute to build this global decentralized grid.  In the two years of it's existence the TF Grid has seen the following types of farming business develop:
 
 * **Independent certified Farmers:** use ThreeFold certified hardware (HPE) but own the full responsibility for installing, find an appropriate location, power and connectivity
 * **"Do It Youself" (DIY) Farmers:** use their own choice of hardware (non-certified hardware) an own the same full responsibility to install, house and keep power and network connectivity up and running.
@@ -34,7 +34,7 @@ For specific information on the capacity types please select "Capacity types" in
 
 There will be no distinction between certified and uncertified capacity up to the point of the commercial grid launch.  All the capacity that is build up in the period up to commercial launch will be treated the same.  Certified and non certified hardware will mint the same amount of tokens as both hardware type are used for the same purpose: TESTNET.
 
-From the launch onwards any new capacity presented to the TF NETWORK will be treated as displayed in table available under "Capacity type" in the left column.  The main differences are a different difficulty factor on the token minting formula (16 for uncertified and 8 for certified) for the farming effort and when capacity consumption starts certified capacity incurs a 10% support license fee for TF Tech, the technology creating company.  Both type of capacity will pay a 10% token fee to the ThreeFold Foundation.
+From the launch onwards any new capacity presented to the TF Grid will be treated as displayed in table available under "Capacity type" in the left column.  The main differences are a different difficulty factor on the token minting formula (16 for uncertified and 8 for certified) for the farming effort and when capacity consumption starts certified capacity incurs a 10% support license fee for TF Tech, the technology creating company.  Both type of capacity will pay a 10% token fee to the ThreeFold Foundation.
 
 ### Farming TFT minting
 
@@ -76,14 +76,14 @@ For compute and storage unit definition please see the "Compute Units" and "Stor
 
 ### Cultivation Token calculation
 
-The cultivation tokens are the only payment mechanism for capacity consumers reserving capacity on the Farmers 3node, the actual usage of grid capacity.  A peer to peer search mechanism will allow for demand and supply to meet which is an intrinsic capability of the TF NETWORK.  The farmer will set and announce this capacity pricing in USD.  The does this by using the units which are calculated at the time of announcing the capacity to the TF NETWORK.
+The cultivation tokens are the only payment mechanism for capacity consumers reserving capacity on the Farmers 3node, the actual usage of grid capacity.  A peer to peer search mechanism will allow for demand and supply to meet which is an intrinsic capability of the TF Grid.  The farmer will set and announce this capacity pricing in USD.  The does this by using the units which are calculated at the time of announcing the capacity to the TF Grid.
 
 | Variable | Description |
 | -------- | ----------- |
 | CP | Farmer’s Compute Unit price in USD |
 | SP | Farmer’s Storage Unit price in USD |
 
-On top of this the farmer needs to set the exchange rate for TFT's to US dollars.  The TF NETWORK will present a default average token price in US dollar which is the result of the active digitial exchanges that trade the TFT.  At this point in time the TFT is not trade much and there is minimal liquidity of the TFT and therefore the same value is taken as for minting purposes: 0.12 USD.
+On top of this the farmer needs to set the exchange rate for TFT's to US dollars.  The TF Grid will present a default average token price in US dollar which is the result of the active digitial exchanges that trade the TFT.  At this point in time the TFT is not trade much and there is minimal liquidity of the TFT and therefore the same value is taken as for minting purposes: 0.12 USD.
 
 So a farmer can accept the default setting for the exchange rate, or set his own exchange rate.  The actual payment for capacity rental will be done in TFT's.  To calculate the
 
@@ -97,7 +97,7 @@ So a farmer can accept the default setting for the exchange rate, or set his own
  | SP | Storage Unit price [USD] |
  | U1 | Utilisation of Compute Units [#]|
  | U2 | Utilisation of Storage Units [#]|
- | P | Token value [USD] (Network default or Farmer set) |
+ | P | Token value [USD] (Grid default or Farmer set) |
 
 [Compute and Storage Unit definition](https://github.com/threefoldfoundation/info_grid/blob/development/docs/concepts/cloud_units.md)
 
@@ -118,7 +118,7 @@ There are two types of fees:
 #### SLA requirements
 For certified and DIY capacity there are Service Level Agreement (SLA) requirements.  These requirements are there to make sure that the presented capacity is usable and presents sufficient reliability for grid consumers to trust their compute and storage workloads to operate.
 
-This table represents the initial numbers applicable to Threefold capacity farmers and ThreeFold network farmers.  These numbers may change going forward.
+This table represents the initial numbers applicable to Threefold capacity farmers and ThreeFold Grid farmers.  These numbers may change going forward.
 
 For capacity farming, we need to have a minimum uptime of the compute and storage capacity  to achieve.  This table represents the initial numbers applicable at launch time:
 
