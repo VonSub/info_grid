@@ -4,3 +4,4 @@
     * [Farming Simulation Tools](tf_farming/farming_simulation_tools.md)
     * [How to set up your farm](tf_farming/farming_setup.md)
     * [HPE Farming Hardware](farming_platforms/hpe.md)
+    * [Capacity Tabel](concepts/capacity_types.md)

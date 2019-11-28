@@ -14,3 +14,5 @@
 
 * Definition
   * [ThreeFold Definitions](/defintions/README.md)
+   * [Capacity Tabel](concepts/capacity_types.md)
+
