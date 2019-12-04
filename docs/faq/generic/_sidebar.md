@@ -1,5 +1,4 @@
 * [Home](/)
 * [Frequently Asked Questions](/faq/README.md)
 * Generic
-   * [1.](/faq/generic/x.md)
-   * [2.](/faq/generic/x.md)
+   * [1.Vienna Cherry Chapter](/faq/generic/vcc_faq.md)
