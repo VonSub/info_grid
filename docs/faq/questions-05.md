@@ -2,7 +2,6 @@
 
 - Share the vision and initial use cases?
 Most of what the vision is and the largest use case of the technology is presented [here](https://threefold.io/).  The [Threefold technology](https://www.threefold.tech/) is fueling this decentralisd, private and democratic internet, build by many for you.
-
 For use cases of the ThreeFold Grid there are many.  As we all know the currenct leaders in the cloud and social space have a business model around collecting information from users and selling that information for commercial advertisment use cases.  Any service that runs on the internet today running on Linux servers can be run on the ThreeFold grid.
 
 - What key problem being solved here?
