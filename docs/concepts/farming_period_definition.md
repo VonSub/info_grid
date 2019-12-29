@@ -1,4 +1,4 @@
-## The Period Definition for TFT Farming and TF Grid Capacity Usage
+## The Period Definition for TF Farming and TF Grid Capacity Usage
 
 Farming is always calculated for 60 month aka 5 years.
 
