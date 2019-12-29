@@ -1,4 +1,4 @@
-### TFT Price for TF Farming
+## TFT Price for TF Farming
 
 
 The TFT Price at the start of farming defines the possible amount of TFT for the whole 60 month period.
