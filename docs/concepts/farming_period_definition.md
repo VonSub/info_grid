@@ -14,9 +14,7 @@ there needs to be a generic month which we will call period.
 This generic period is 30.44167 days which is 730.6 hours.
 
 The 30.44167 day period is calculated as the average ‘month length’ if we look at the farming duration of 5 years. 
-A farm has a minimum of 1 leap year and a maximum of 2 leap years over a period of 5 years. For the period with 1 leap year (4 years with 365 days, 1 year with 366 days) the average month in hours is 730.4 for the period with 2 leap years (3 years with 365 days, 2 years with 366 days) the average month in hours is 730.8. So the average (if we say its 50:50) is 730.6 hours a month which is 30.44167  days. 
-
-Here is the detailed calculation: https://docs.google.com/spreadsheets/d/1Sp8Icz0wd-FswTRQAtVSn5vlYXXIU6zFpO7YV6yNiD4/edit#gid=788476677
+A farm has a minimum of 1 leap year and a maximum of 2 leap years over a period of 5 years. For the period with 1 leap year (4 years with 365 days, 1 year with 366 days) the average month in hours is 730.4 for the period with 2 leap years (3 years with 365 days, 2 years with 366 days) the average month in hours is 730.8. So the average (if we say its 50:50) is 730.6 hours a month which is 30.44167 days. 
 
 
 #### This means
