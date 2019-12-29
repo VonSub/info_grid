@@ -23,7 +23,8 @@ Here is the detailed calculation: https://docs.google.com/spreadsheets/d/1Sp8Icz
 
 Monthly TFTs will always be paid after a period of 30.44167 days.
 
-(Add next 5 year payment schedule link here) 
+TF Grid Farming Month Calculation & Minting Times: https://docs.google.com/spreadsheets/d/1Sp8Icz0wd-FswTRQAtVSn5vlYXXIU6zFpO7YV6yNiD4/edit#gid=837185085
+
 
 #### Note: Monthly TFTs will be paid within 48 hours after the month closed.
 
