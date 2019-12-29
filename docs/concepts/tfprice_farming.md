@@ -9,7 +9,8 @@ TFT Price for TF Farming from 1st of January 2019 until the 31st of December 201
 
 TFT Price for TF Farming from 1st of January 2020:							USD 0.15 
 
-After the ThreeFold IEO on Liquid which ends approximately March 10th 2020 the TFT price for the start of farming will be calculated as the weighted average price of the last 3 month of TFT traded on public exchanges. The 10% highest and 10% lowest price trades will not be used for calculating the TFT price for start of TF Farming. The TFT Price for the start of farming will be rounded to the 2nd digit after the comma. This TFT Price will be calculated after the end of each calendar month and is valid for the following calendar year quarter. The first TFT Price for farming will be calculated on April 1st 2020.
+After the ThreeFold IEO on Liquid which ends approximately March 10th 2020 the TFT price for the start of farming will be calculated as the weighted average price of the last 3 periods of TFT traded on public exchanges. The 10% highest and 10% lowest price trades will not be user for calculating the TFT price for start of farming. The TFT Price for the start of farming will be rounded to the 2nd digit after the comma. This TFT price will be calculated after the end of the first 3 periods of 2020 and is valid for the following 3 periods. The first TFT price for farming will be calculated on March 31st 2020.
+
 
 
 ### Simplified Example to explain the concept:
