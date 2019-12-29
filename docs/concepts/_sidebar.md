@@ -5,3 +5,6 @@
     * [Resource Units](concepts/resource_units.md)
     * [Commercial Token Value Calculation](concepts/commercial_token_value_calculation.md)
     * [Capacity types](concepts/capacity_types.md)
+    * [CU SU Price Farming](concepts/CU_SU_Pricing_Farming.md)
+    * [TFT Price Farming](concepts/tfprice_farming.md)
+    * [TF Period](concepts/farming_period_definition.md)
