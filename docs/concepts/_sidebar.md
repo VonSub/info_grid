@@ -4,6 +4,5 @@
     * [Cloud Units](concepts/cloud_units.md)
     * [Resource Units](concepts/resource_units.md)
     * [Commercial Token Value Calculation](concepts/commercial_token_value_calculation.md)
-    * [Capacity types](concepts/capacity_types.md)
     * [TFT Price at Start Farming](concepts/tfprice_farming.md)
     * [TF Period](concepts/farming_period_definition.md)
