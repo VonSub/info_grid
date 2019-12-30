@@ -2,8 +2,6 @@
 
 ## Roadmap Update:
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/TF-Grid0.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
 ![Roadmap 2020](images/roadmap2020.png "image_tooltip")
 
 TF Farmer and 3Node migration from TF Grid version 1.x to version 2.0  will start the 3rd week of January 2020. After the migration of a minimum of 80% of all farmers and 3Nodes the TF capacity layer can be used to deploy and run workloads using CLI. For March 2020 we plan to release the 1st version of the so called 3Bot Digital Worker which allows to run workloads in an autonomous way on the TF capacity layer. The digital avatar, the 3Bot end user version will be launched in April and can be used with any interface. Examples of interface that can be added to the 3Bot are a chat interface equivalent to the chat bots in telegram or  a voice interface like with siri, alexa or google.
