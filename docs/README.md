@@ -2,10 +2,12 @@
 
 ![](/images/world.png)
 
-The ThreeFold Grid is built by a collective of independent people that together create a pool of Internet compute and storage capacity that fuels a cryptocurrency token economy resulting in a very stable currency (the TF Token) that is used to buy and sell this capacity and many other items in the near future.
+The ThreeFold Grid is built by independent people that together create a pool of connected compute and storage capacity.  This is a tokenomy where compute hardware mints a stable currency (the TF Token) which is used to rent capacity on the grid to run current and future IT workloads.  The currency should be a stable currency and ThreeFold hopes it will be a currency that us used in local economies for many other value transaction ad well.
 
-This WIKI presents the basic information required to participate in the ThreeFold Grid in some different roles.  Examples roles are:
-- **a farmer**:  these are the people that put forward investments to build and operate the internet capacity pool.  Farmers purchase and operate compute and storage hardware that they list on the TF Grid.
-- **a cooperative**: this is an organization that performs most of the logistical and operational tasks for the actual farming activity. Its function is to help farmers that are looking for an investment-only model to participate.
-- **a developer**: these are people that build services and applications that run on the TF Grid.
-- **a customer**:  customers use applications on the TF Grid and consume TF Grid resources for which they pay in TF tokens.
+This WIKI presents the basic information required to participate in the ThreeFold Grid.  There are a number of different ways to use the technology:
+- **as a farmer minting ThreeFold tokens**:
+farmers investment in hardware to build and operate the internet capacity pool.  Farmers purchase and operate compute and storage hardware that they list on the TF Grid by downloading and installing ThreeFold software.  A farmer mints the ThreeFold token(s).  Farmers come in many different size and shapes.  Farmers can be individuals that have a spare computer or some spare cash.  Farmers can also be companies that actively go out and find people to invest in there business of building farming sites and mint Threefold tokens.  An example of with a company is [Green Edge Cloud](https://www.greenedgecloud.com/)
+- **as a developer using the TF grid to create and run IT workloads by using Farmers capacity**:
+these are people that build services and applications on the TF Grid.
+- **as a customer is using applications and services developed by developers on Farmers capacity**:  
+customers use applications on the TF Grid and consume TF Grid resources for which they pay in TF tokens.

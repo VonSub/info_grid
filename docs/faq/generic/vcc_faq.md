@@ -22,7 +22,7 @@ The smart contract terminology
 
 ### 4.Will TF provide an „application migration tool“ to automatically migrate on-premise applications into a „TF Container“ on the TF Grid.
 
-This is foreseen as a basic functionality.  The world of IT is moving towards containerized application architectures and we support that as it runs aspplication components more more effectively and flexible. In the TF Grid there are 3 identified layers of technology:
+This is foreseen as a basic functionality.  The world of IT is moving towards containerized application architectures and we support that as it runs application components more more effectively and flexible. In the TF Grid there are 3 identified layers of technology:
 - The Autonomous Distributed Applications layer (A-Dapps)
 - The Autonomous layer (3Bots)
 - The Capacity layer (3Nodes)
@@ -39,4 +39,4 @@ The Foundation is a marketing and promotion organisation for the Threefold Tech 
 
 ### 7. 10% - 20% of Capacity Sales Tokens stay with TF for marketing activities. What Marketing and Support funding will TF Foundation provide to the VCC to acquire SIs or customers
 
-Same answer as above, marketing and promotion strategies are being build and will start to be rolled out October onwards. 
+Same answer as above, marketing and promotion strategies are being build and will start to be rolled out October onwards.

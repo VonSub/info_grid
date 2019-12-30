@@ -6,6 +6,6 @@
     * [Demand and supply related](/faq/market/README.md)
     * [Grid operations related](/faq/operations/README.md)
     * [Legal matters](/faq/legal/README.md)
-    * [Other Wiki's]()
+    * [Other Wiki's](/faq/README.md)
         * [ThreeFold Foundation Wiki FAQ](https://threefoldfoundation.github.io/info_foundation/#/faq/README)
         * [ThreeFold Tokens Wiki FAQ](https://threefoldfoundation.github.io/info_tokens/#/faq/README)
