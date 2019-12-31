@@ -26,7 +26,7 @@ Consider the following trades for an example period of three month:.
 
 This would read as follows in a graph showing the token pricing vs. the trade volume.
 
-![trade-graph](images/trade-graph.png "image_tooltip")
+![](../images/trade-graph.png)
 
 In this period a total of 28,300 tokens were traded. Trade 1 traded at the highest price (0.25 USD) and trade 2 (0.12 USD) at the lowest price. In order to cut 10% of the tokens traded at the highest price and 10% of the lowest price we have to organise all tokens traded in a sequence from high to low.
 
