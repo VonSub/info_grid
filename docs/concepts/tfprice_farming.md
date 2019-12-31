@@ -32,11 +32,11 @@ In this period a total of 28,300 tokens were traded. Trade 1 traded at the highe
 
 Once we have organised all single tokens trades in a sequence we can quite easily cut 10% of highest traded token and lowest traded tokens.  See the red markers in the graph.  Please note that in this example the 10% of highest price traded tokens fits into a single trade while the 10% of lowest price traded tokens spans 5 trades.  Remember that these are just example trades, it might be the reverse in real life where high price trades represent lower volumes and low price trades higher volumes, but the principles stay the same.
 
-![tokens-traded-organised](images/tokens-traded-organised.png "image_tooltip")
+![](../concepts/images/tokens-traded-organised.png)
 
 See table below where the token trades have been ordered from the highest price to the lowest and where we take out both 10 percentiles:
 
-![sorted-trade-examples](images/sorted-trade-examples.png "image_tooltip")
+![](../concepts/images/sorted-trade-examples.png)
 
 So for the coming 3 months period the token price for new farming equipment will be set at the weighted average token price of 0.2066 USD.
 
