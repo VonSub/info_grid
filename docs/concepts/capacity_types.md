@@ -4,12 +4,12 @@ For 2020 the foundation recognises three type of capacity as listed in the table
 
 
 
-
-|   |  | **DIY Capacity** | **Certified Capacity** | **Managed Capacity** |
-| :--- | :---: | :---: | :---: | :---: |
-|  **Farming** |  |  |  |  |
-|  **Requirements** | **Farming Platform** | Bare metal | Bare metal | Virtual Machines |
-|   | **Who** | Anyone | Anyone | Anyone |
+# Specifications
+|   |  | DIY Capacity | Certified Capacity | Managed Capacity |
+| --- | --- | --- | --- | --- |
+|  Farming |  |  |  |  |
+|  Requirements | Farming Platform | Bare metal | Bare metal | Virtual Machines |
+|   | Who | Anyone | Anyone | Anyone |
 |   | **Hardware** | Any AMD/Intel Hardware < 4 years old | HPE Certified Hardware (on certified list) | Any Hardware < 4 years old |
 |   | **Size** | Any | Any | More than 100 VM's per Farm online |
 |   | **Location** | Anywhere | Anywhere | Anywhere |
