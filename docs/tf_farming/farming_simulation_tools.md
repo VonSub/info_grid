@@ -21,7 +21,7 @@
 *********************************************************************************************************
 
 <div style="overflow:hidden; margin-top:15px;">
-   <iframe src="https://jscalc.io/calc/6G95LV26YOLiinKG" scrolling="yes" style="width: 100%; height: 774px; margin-left:0px;"></iframe>
+   <iframe src="https://jscalc.io/calc/3KL8gkvekUe52gGo" scrolling="yes" style="width: 100%; height: 774px; margin-left:0px;"></iframe>
 </div>
 
 **Inputs needed:**
@@ -30,7 +30,7 @@
 - The sales price for a compute unit [$]: USD 15.00 (until Grid usage start in Q1 2020)
 - The sales price for a storage unit [$]: USD 10.00 (until Grid usage start in Q1 2020)
 - Average usage over 5 years [%]: we use 60% (realistic medium usage)
-- Price erosion over 5 years [%]: we use 20% (lower than the industry as we are already multiple times lower in pricing)
+- Price erosion over 5 years [%]: we use 20% (lower than the industry as we are already multiple times lower in pricing).  The percentage set is applied over a period of 5 years where prices depreciate linear monthly the the selected percentage.  Total price impact of the period of 60 months is half the percentage.
 - Average Token price (5 years) [$]: we use in our calculations USD 1.0
 
 You can play around with the last three parameters to simulate different scenarios.
