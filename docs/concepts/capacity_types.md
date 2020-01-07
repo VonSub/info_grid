@@ -2,11 +2,13 @@
 
 For 2020 the foundation recognises three type of capacity as listed in the table below.  This is also how the capacity type that will be advertised on the global capacity market place.  The three types of capacity originate are called "do it yourself", certified and managed.  Specifications and characteristics are listed below.
 
-|   |  | **DIY Capacity** | **Certified Capacity** | **Managed Capacity** |
-| :--- | :---: | :---: | :---: | :---: |
-|  **Farming** |  |  |  |  |
-|  **Requirements** | **Farming Platform** | Bare metal | Bare metal | Virtual Machines |
-|   | **Who** | Anyone | Anyone | Anyone |
+
+
+|   |  | DIY Capacity | Certified Capacity | Managed Capacity |
+| --- | --- | --- | --- | --- |
+|  Farming |  |  |  |  |
+|  Requirements | Farming Platform | Bare metal | Bare metal | Virtual Machines |
+|   | Who | Anyone | Anyone | Anyone |
 |   | **Hardware** | Any AMD/Intel Hardware < 4 years old | HPE Certified Hardware (on certified list) | Any Hardware < 4 years old |
 |   | **Size** | Any | Any | More than 100 VM's per Farm online |
 |   | **Location** | Anywhere | Anywhere | Anywhere |

@@ -4,39 +4,39 @@ This best practice guide is for farmers who have or will have multiple farming l
 
 ## Step 1: Sign in to your ItsYou.Online account
 
-![](/tf_farming//images/mfl01.png)
+![](mfl01.png)
 
 ## Step 2: Click on 'Organizations'
 
-![](/tf_farming//images/mfl02.png)
+![](mfl02.png)
 
 ## Step 3: Click on your parent organization
 
 Note: Make you select this name in a way that it reflects your desired structure
 
-![](/tf_farming//images/mfl03.png)
+![](mfl03.png)
 
 ## Step 4: Click on 'Structure'
 
-![](/tf_farming//images/mfl04.png)
+![](mfl04.png)
 
 ## Step 5: Click on 'Create Substructure'
 
-![](/tf_farming//images/mfl05.png)
+![](mfl05.png)
 
 ## Step 6: Enter the sub-organization name
 
-![](/tf_farming//images/mfl06.png)
+![](mfl06.png)
 
 ## Step 7: Click on 'Register Farm'
 
-![](/tf_farming//images/mfl07.png)
+![](mfl07.png)
 
 ## Step 8: Enter your 'Organization ID', 'Farm Name', 'TFT Wallet Address' and  and click 'Submit' to generate 'farmer_id='
 
 **Note: Use parent farm '.' child farm name for 'Organization ID'**
 
-![](/tf_farming//images/mfl08.png)
+![](mfl08.png)
 
 ## Step 9: Create your image and boot farm nodes with location-specific farmer_id
 
