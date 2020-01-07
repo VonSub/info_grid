@@ -4,7 +4,6 @@ For 2020 the foundation recognises three type of capacity as listed in the table
 
 
 
-# Specifications
 |   |  | DIY Capacity | Certified Capacity | Managed Capacity |
 | --- | --- | --- | --- | --- |
 |  Farming |  |  |  |  |
