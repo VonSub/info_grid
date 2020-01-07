@@ -8,7 +8,7 @@ This best practice guide is for farmers who have or will have multiple farming l
 
 ## Step 2: Click on 'Organizations'
 
-![](tf_farming/images/mfl02.png)
+![](images/mfl02.png)
 
 ## Step 3: Click on your parent organization
 
