@@ -4,7 +4,7 @@ This best practice guide is for farmers who have or will have multiple farming l
 
 ## Step 1: Sign in to your ItsYou.Online account
 
-![](info_grid/docs/tf_farming/images/mfl01.png)
+![](/info_grid/docs/tf_farming/images/mfl01.png)
 
 ## Step 2: Click on 'Organizations'
 
