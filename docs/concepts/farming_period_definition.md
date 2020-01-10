@@ -1,13 +1,13 @@
-## The Period Definition for TF Farming and TF Grid Capacity Usage
+## The Measurement Period Definition for TF Farming and TF Grid Capacity Usage
 
-Farming is always calculated for 60 month aka 5 years.
+Farming is always calculated for 60 months (5 years).
 
 
 #### To make it easy to calculate
 
 * the amount of TFT per month
 * the SLA per month
-* the price of CU or SU per month
+* the price of CU and SU per month
 
 there needs to be a generic month which we will call period.
 
