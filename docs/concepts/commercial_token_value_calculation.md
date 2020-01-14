@@ -13,7 +13,7 @@ How do we measure the commercial index value?
 
 The following formulas are used to convert resource units to [cloud_units](https://github.com/threefoldfoundation/info_grid/blob/development/docs/concepts/cloud_units.md).
 
-- 1 CU = min(MRU/4*(1-5%),CRU*2)
+- 1 CU = min(MRU/4 x (1-5%),CRU x 2)
 - 1 SU = HRU / 1093 + SRU / 92
 - 1 NU = CU x 10 + SU x 2% x 1000
 
