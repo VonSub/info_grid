@@ -7,11 +7,12 @@
 |  Converged Node I| HPE ProLiant DL380 Gen10 12LFF | 2U server |  2x Intel Xeon-Gold 6130 (2.1GHz/16-core) 256GB RAM 8x 12TB SATA HDDs 4x 1.92TB SATA SSDs. Dual-port 10GE network adapter|
 |  Converged Node II | HPE ProLiant DL385 Gen10 Mod-X 12LFF | 2U server  | 2x AMD EPYC – 7351 (2.4GHz/16-core) 256GB RAM 8x 12TB SATA HDDs 4x 1.92TB SATA SSDs. Dual-port 10GE network adapter|
 |  Storage Node | HPE Apollo 4510 Gen10 | 4U server | 2x Intel Xeon-Silver 4208 (1.8GHz/8-core) - 128GB RAM - 56x 12TB SATA HDDs - 4x 1.92TB SATA SSDs - Dual-port 10GE network adapter|
+|  Converged Edge Node | HPE EL8000 | 5U server (half 19" rack width)  | 2x Intel Xeon-G-6212 (2.4GHz/24-core) - 384GB RAM - 8 x 1TB NVMe SSDs - 2x Quad-port 1GE network adapter|
 
 
 
 
-## Home Kit
+# Home Kit
 SOHO, personal farm for the lowest price (around 1100USD pricepoint for example config, depending on config)
 
 ### Server Platform: 
@@ -52,7 +53,7 @@ HPE ProLiant MicroServer Gen10 is available at local electronics stores. Configu
 <https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00008701enw>
 
 
-## Converged Node I
+# Converged Node I
 
 INTEL based Compute and Storage Node, 2u rack-mountable (around 20000 USD, depending on region)
 
@@ -90,7 +91,7 @@ Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold 
 <https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00008180enw>
 
 
-## Converged Node I 
+# Converged Node II
 
 AMD based Compute and Storage Node, 2u rack-mountable (around 18000 USD, depending on region)
 
@@ -127,7 +128,7 @@ Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold 
 <https://h20195.www2.hpe.com/v2/gethtml.aspx?docname=a00026913enw>
 
 
-## Storage Node
+# Storage Node
 
 Storage optimized Node, 2U rack-mountable (around 60000 USD, depending on the region)
  
@@ -165,5 +166,47 @@ Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold 
 <https://support.hpe.com/hpsc/doc/public/display?docId=emr_na-a00029698en_us&docLocale=en_US>
 
 
+# Converged Edge Node
+
+Converged Edge node designed for telco (mast) and industrial usage, 5U half rack width, stand alone & rack-mountable (around 21000 USD, depending on the region)
+ 
+### Server Platform:
+HPE EL8000
+
+### Description:
+The HPE Edgeline EL8000 Converged Edge System brings high-power computing to the edge of networks, which previously tended to have limited computing capacity.
+The condensed rugged design of the HPE Edgeline EL8000 allows new compute possibilities directly where data is being generated such as a factory floor, locomotives, battlefields, oil rigs, coffee shops, hospitals and beyond.
+With the ProLiant e910 Server Blades installed, The Edgeline EL8000 System expands the scope of Machine Learning, Video Analytics, and Mobil Edge Compute. The compute capacity previously limited to traditional data centers or the cloud is now available at the Edge with the HPE Edgeline EL8000 Converged Edge Systems. HPE EL8000 is Zero OS certified.
+
+#### Note: Special node designed for edge usecases which are compute intensive.
+
+### Preferred/optimized configuration:
+Threefold optimized configuration for maximized ROI: 
+
+- 2x Intel Xeon-G 6212 (2.4GHz/24-core) 
+- 384GB RAM  
+- 8x 1.92TB NVMe SSDs
+- 2x Quad-port 1GE network adapter
+
+#### Ressource Units:
+
+- CRU: 96 logical cores
+- MRU: 384 GB
+- SSD: 8000 GB
+- HRU: n/a GB
+
+### ROI calculation Example:
+
+**7.4** over 5 years @ purchasing price USD 21000, hosted on a cell tower, oil rig or and industrial production line, the token price at farm start USD 0.12, CU Price USD 15, SU Price USD 10, 60% average capacity utilization, 20% price erosion, token price after 5 years of farming USD 1.0
+
+
+### Where to buy:
+Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold farming hardware Apollo DL4510' in the email subject
+
+### Media:
+<https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-a00072471en_us&withFrame>
+
+
 ## NOTE: 
 The prices used in this document are not in any case TF Farmer prices HPE will quote globally. Please ask <tibor.szpisjak@hpe.com> or your local HPE partner for local pricing based on the above hardware configurations.
+
