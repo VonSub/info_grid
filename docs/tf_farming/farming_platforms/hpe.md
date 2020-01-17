@@ -201,7 +201,7 @@ Threefold optimized configuration for maximized ROI:
 
 
 ### Where to buy:
-Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold farming hardware Apollo DL4510' in the email subject
+Please contact <tibor.szpisjak@hpe.com> for pricing. Put 'request for ThreeFold farming hardware EL8000' in the email subject
 
 ### Media:
 <https://support.hpe.com/hpsc/doc/public/display?docLocale=en_US&docId=emr_na-a00072471en_us&withFrame>
