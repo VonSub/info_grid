@@ -77,7 +77,7 @@ Threefold optimized configuration for maximized ROI:
 - CRU: 64 logical cores
 - MRU: 256 GB
 - SSD: 7680 GB
-- HRU: 144000 GB
+- HRU: 96000 GB
 
 ### ROI calculation Example:
 
