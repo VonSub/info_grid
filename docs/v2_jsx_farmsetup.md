@@ -68,4 +68,10 @@ Use this bootsstrap service: https://bootstrap.grid.tf
 
 ## 4. Start 3Node with bootable image
 
+After booting your 3Node it is visible on: (add mainnet explorer)
+
+## Useful links
+
+V2 Networking: https://github.com/threefoldtech/zos/blob/master/docs/network/introduction.md
+
 
