@@ -7,11 +7,7 @@ See https://github.com/threefoldtech/jumpscaleX_core/blob/development/docs/Insta
 
 ## 1. Register your identity on the TF Grid
 
-Inside you jsx container, start kosmos
-
-```shell
-kosmos
-```
+As indicated in the install description start the kosmos shell inside you jsx container.  Then follow these instructions:
 
 Connect to the right environment (testnet in example)
 ```python
