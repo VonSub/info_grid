@@ -7,7 +7,7 @@ See https://github.com/threefoldtech/jumpscaleX_core/blob/development/docs/Insta
 
 ## 1. Register your identity on the TF Grid
 
-As indicated in the install description start the kosmos shell inside you jsx container.  Then follow these instructions:
+As indicated in the install description start the kosmos shell inside your jsx container.  Then follow these instructions to get yourself a 3bot and attach your farm to it.
 
 Connect to the right environment (testnet in example)
 ```python
