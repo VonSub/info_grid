@@ -60,7 +60,7 @@ If you go to the explorer web UI you should be able to see your farm in "All far
 
 ## 3. Create a bootable image
 
-Use this bootsstrap service: https://bootstrap.grid.tf
+Use this bootsstrap service: https://bootstrap.grid.tf, with farmer ID = the farm_id generated in step 2.  
 
 ## 4. Start 3Node with bootable image
 
