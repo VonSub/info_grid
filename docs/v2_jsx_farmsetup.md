@@ -1,17 +1,19 @@
 # This document shows how to setup/migrate your ThreeFold Farm and 3Nodes to TF Grid 2.0 (JSX Version)
 NOTE: This guide is for experts only. If you need assistance please send an email to support@threefold.tech
 
-## Prerequiste: Install jumpscale container
+## Prerequisite: Install jumpscale container
 
 See https://github.com/threefoldtech/jumpscaleX_core/blob/development/docs/Installation/README.md to know how to install jumpscale container
 
 ## 1. Register your identity on the TF Grid
 
-As indicated in the install description start the kosmos shell inside your jsx container.  Then follow these instructions to get yourself a 3bot and attach your farm to it.
+As indicated in the install description start the kosmos shell inside your jsx container.  
+Then follow these instructions to get register an identity and attach your farm to it.
 
-Connect to the right environment (testnet in example)
+Connect to the right network.
 ```python
-j.clients.threebot.explorer_addr_set('explorer.testnet.grid.tf') 
+j.clients.threebot.explorer_addr_set('explorer.grid.tf')
+# j.clients.threebot.explorer_addr_set('explorer.testnet.grid.tf')  If you want to use testnet
 ```
 
 Register your identity. To do so use `j.tools.threebot.init_my_threebot` function.
@@ -27,14 +29,13 @@ j.tools.threebot.init_my_threebot(
     email='myname@gmail.com',
     description="anything can go here")
 ```
+
 ## 2. Create a TF Farm
 
 Now that your identity is known on the grid, you can create a farm.
 To do so, you need to connect to the grid explorer 3bot.
 
 ```python
-# set the address of the explorer
-j.clients.threebot.explorer_addr_set('explorer.testnet.grid.tf')
 # get a client to the explorer
 explorer = j.clients.threebot.explorer
 # get schema from server to client
@@ -60,14 +61,12 @@ If you go to the explorer web UI you should be able to see your farm in "All far
 
 ## 3. Create a bootable image
 
-Use this bootsstrap service: https://bootstrap.grid.tf, with farmer ID = the farm_id generated in step 2.  
+Use this bootstrap service: https://bootstrap.grid.tf, with farmer ID = the farm_id generated in step 2.  
 
 ## 4. Start 3Node with bootable image
 
-After booting your 3Node it is visible on: (add mainnet explorer)
+After booting your 3Node it is visible on: [the tfgrid explorer](https://explorer.grid.tf)
 
 ## Useful links
 
 V2 Networking: https://github.com/threefoldtech/zos/blob/master/docs/network/introduction.md
-
-
