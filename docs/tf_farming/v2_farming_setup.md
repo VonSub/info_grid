@@ -1,4 +1,4 @@
-# Please note that the TF Grid is upgraded to version 2.0. This document will be updated pretty soon. If you want to add a farm and related nodes in the meantime please contact the [ThreeFold Support Center](https://support.grid.tf)
+
 
 # How to set up your ThreeFold Farm
 

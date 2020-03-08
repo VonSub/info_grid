@@ -5,7 +5,7 @@ The TFT Price at the start of farming defines the total (possible) amount of TFT
 *   TFT price from 1st of January 2019 until the 31st of January 2020:	USD 0.12
 *   TFT price from 1st of February 2020:					USD 0.15
 
-After the ThreeFold IEO on Liquid (which ends approximately March 10th 2020) the TFT price for the start of farming will be calculated as the weighted average of the last 3 months periods of TFT traded on public exchanges. The 10% highest and 10% lowest weighted token trades will not be used for calculating the TFT price for start of farming. This should eliminate the extremities in trading patterns. The TFT Price for the start of farming will be rounded to the 4th digit after the comma. This TFT price will be calculated after the end of the first 3 periods of 2020 and is valid for the following 3 periods. The first TFT price for farming will be calculated on March 31st 2020.
+After the Token Listing Event (which is approximately end of March 2020) the TFT price for the start of farming will be calculated as the weighted average of the last 3 months periods of TFT traded on public exchanges. The 10% highest and 10% lowest weighted token trades will not be used for calculating the TFT price for start of farming. This should eliminate the extremities in trading patterns. The TFT Price for the start of farming will be rounded to the 4th digit after the comma. This TFT price will be calculated after the end of the first 3 periods of 2020 and is valid for the following 3 periods. The first TFT price for farming will be calculated on March 31st 2020.
 
 ### Simple trading period example to explain the concept
 
